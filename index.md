@@ -4,22 +4,20 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
-![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)
+![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)
 
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb).
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
+- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
 
 ***
 
@@ -74,19 +72,21 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
 
-![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)
+![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)
 
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb).
 
-- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
-- Compared predictive performance by fitting a BaggingClassifier model to the data
-- Selected best model based on train and test performance
+- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Cross Validation for validating the training data and model fit.
+- Fit a Random Forest Regressor with high prediction accuracy through iteration
 
 ***
