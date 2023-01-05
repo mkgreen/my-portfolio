@@ -41,6 +41,39 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
+
+![knee-brace-ortho](https://user-images.githubusercontent.com/105948938/210697291-f37f4d78-f7f5-48e8-b7fd-4375a9254df3.png)
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
+
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 85.48% .
+
+- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
+
+***
+
+[Prediction of user interest using bank data](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
+
+![banking](https://user-images.githubusercontent.com/105948938/210697085-9f12b658-be7a-4493-afd1-10c9aaf397d5.jpeg)
+
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+**Quantifiable result:** We could Classify the type of tumor resulting in 85% accuracy using Logistic Regression and SMOTE .
+
+- in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+- The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+***
+
 [Identifying given picture is a Cat or a Dog]()
 
 ![Dog-and-Cat](https://user-images.githubusercontent.com/105948938/210696171-8b996baa-e68f-42d7-a702-3464c8c85113.jpeg)
