@@ -74,17 +74,18 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying given picture is a Cat or a Dog]()
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
-![Dog-and-Cat](https://user-images.githubusercontent.com/105948938/210696171-8b996baa-e68f-42d7-a702-3464c8c85113.jpeg)
+<img src="images/Mobile.jpeg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs]().
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
 
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
+
+***
