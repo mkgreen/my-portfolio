@@ -2,9 +2,9 @@
 
 ![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)
 
-### email: green.milok@gmail.com
+email: green.milok@gmail.com
 
-**[View My LinkedIn Profile]**(https://www.linkedin.com/in/kelsey-m-green/)
+[View My LinkedIn Profile](https://www.linkedin.com/in/kelsey-m-green/)
 
 ***
 
