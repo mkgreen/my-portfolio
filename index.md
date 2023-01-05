@@ -6,7 +6,8 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)
+
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -24,7 +25,8 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+![breast-cancer](https://user-images.githubusercontent.com/105948938/210696322-7f632410-13c6-4aab-8e00-bf7552a32917.jpeg)
+
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
