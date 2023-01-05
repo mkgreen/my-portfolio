@@ -14,7 +14,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
+### [TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
 [![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
@@ -31,9 +31,9 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
+### [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
 
-![breast-cancer](https://user-images.githubusercontent.com/105948938/210696322-7f632410-13c6-4aab-8e00-bf7552a32917.jpeg)
+[![breast-cancer](https://user-images.githubusercontent.com/105948938/210696322-7f632410-13c6-4aab-8e00-bf7552a32917.jpeg)](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
@@ -49,9 +49,9 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
+### [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
 
-![knee-brace-ortho](https://user-images.githubusercontent.com/105948938/210697291-f37f4d78-f7f5-48e8-b7fd-4375a9254df3.png)
+[![knee-brace-ortho](https://user-images.githubusercontent.com/105948938/210697291-f37f4d78-f7f5-48e8-b7fd-4375a9254df3.png)](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
@@ -65,9 +65,9 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
+### [Prediction of user interest using bank data](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
 
-![banking](https://user-images.githubusercontent.com/105948938/210697085-9f12b658-be7a-4493-afd1-10c9aaf397d5.jpeg)
+[![banking](https://user-images.githubusercontent.com/105948938/210697085-9f12b658-be7a-4493-afd1-10c9aaf397d5.jpeg)](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
@@ -82,9 +82,9 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
+### [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
 
-![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)
+[![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
