@@ -41,7 +41,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 [Identifying given picture is a Cat or a Dog]()
 
-<img src="images/Dog-and-Cat.jpeg"/> 
+![Dog-and-Cat](https://user-images.githubusercontent.com/105948938/210696171-8b996baa-e68f-42d7-a702-3464c8c85113.jpeg)
 
 **Skills used:** Python, Keras, Tensorflow
 
