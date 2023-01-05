@@ -1,10 +1,10 @@
-#Milo Green
+# Milo Green
 
 ![portfolio page](https://user-images.githubusercontent.com/105948938/210699967-81381cd8-17d7-438b-84f7-43a5e99b601c.png)
 
-##Data Scientist
+## Data Scientist
 
-##[View My LinkedIn Profile](https://www.linkedin.com/in/kelsey-m-green/)
+## [View My LinkedIn Profile](https://www.linkedin.com/in/kelsey-m-green/)
 
 ***
 
