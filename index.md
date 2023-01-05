@@ -76,7 +76,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
-<img src="images/Mobile.jpeg?raw=true"/>
+![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)
+
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
