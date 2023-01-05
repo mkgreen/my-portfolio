@@ -1,6 +1,6 @@
 # Milo Green
 
-![milo](https://user-images.githubusercontent.com/105948938/210700672-63f15a03-97bf-427a-9d76-56163c2368ee.png)
+![milo prof](https://user-images.githubusercontent.com/105948938/210700838-043c9841-538e-494b-861d-59e04c55ed21.jpeg)
 
 ## Data Scientist
 
