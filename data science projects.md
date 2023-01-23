@@ -13,24 +13,6 @@ email: green.milok@gmail.com
 Here are some of my best Data Science Projects. I have explored various machine learning algorithms for different real world datasets. Please feel free to contact me to learn more about my experience working with these projects.
 
 ***
-
-### [TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
-
-[![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
-
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
-
-**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
-
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
-
-- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
-- Compared predictive performance by fitting a BaggingClassifier model to the data
-- Selected best model based on train and test performance
-
-***
-
 ### [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
 
 [![breast-cancer](https://user-images.githubusercontent.com/105948938/210696322-7f632410-13c6-4aab-8e00-bf7552a32917.jpeg)](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb)
@@ -63,6 +45,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
 - A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
+
 ***
 ### [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
 
@@ -80,6 +63,22 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 ***
 
+### [TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
+
+[![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
+
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
+
+- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
+
+***
 ### [Prediction of user interest using bank data](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
 
 [![banking](https://user-images.githubusercontent.com/105948938/210697085-9f12b658-be7a-4493-afd1-10c9aaf397d5.jpeg)](https://github.com/mkgreen/Banking-Classification-Logistic-Regression/blob/main/Portugese%20Banking%20Classification.ipynb)
