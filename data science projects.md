@@ -48,9 +48,10 @@ Here are some of my best Data Science Projects. I have explored various machine 
 - Explored a machine learning approach to medical diagnosis
 
 ***
-[Amazon Fine Food Analysis using NLP](https://github.com/Priyagane/NLP-amz..git)
+### [Amazon Fine Food Analysis using NLP](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/README.md)
 
-<img src="images/amazon.jpeg?raw=true"/>
+[![amazon](https://user-images.githubusercontent.com/105948938/214133955-1eba5605-2603-404a-864a-707892271c7b.jpeg)](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/README.md)
+
 
 **Skills used:** Python, Pandas, SKlearn, TfidVectorizer
 
