@@ -20,7 +20,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**96%** accuracy using K-means algorithm](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb).
+**Quantifiable result:** Types of tumors were successfully classified with [**96%** accuracy by using K-means algorithm](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb).
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
@@ -37,7 +37,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
 
-**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
+**Quantifiable result:** A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate way of determining the polarity (positivity/negativity) 
 
 [**AUC** Score of 94%](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/NLP_Project_Amazon_Reviews.ipynb) .
 - Given a review, it is determined whether the review is positive or negative.
@@ -51,9 +51,9 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
-**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+**Project Objective:** In this project, the data provided multiple instances of orthopedic parameters and their classification as either Normal or Abnormal. I implemented K Nearest Neighbor to classify and diagnose the patients.
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
+**Quantifiable result:** Successfully classified the orthopedic parameters as either Normal or Abnormal with an accuracy of **82%.**
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -68,9 +68,9 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
-**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+**Project Objective:** Predict fraud by using the data gathered from features associated with clicks, such as IP address, operating system, device type, time of click, etc.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
+**Quantifiable result:** Successful classification of people who did and did not download the app after watching an advertisement with an accuracy of 97%.
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -84,12 +84,10 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
-The classification goal is to predict if the client will subscribe a term deposit (variable y).
+**Project Objective:** Using the real-world data of a Portuguese banking institution, predict if a client will subscribe to a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 85% accuracy using Logistic Regression and SMOTE .
+**Quantifiable result:**
 
-- in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 ***
