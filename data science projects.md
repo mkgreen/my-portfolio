@@ -101,7 +101,7 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** Succefully able to predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb).
+**Quantifiable result:** Successfully able to predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
