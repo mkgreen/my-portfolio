@@ -1,1 +1,1 @@
-# [my-portfolio](https://github.com/mkgreen/my-portfolio/blob/main/data%20science%20projects.md)
+# [my-portfolio](https://mkgreen.github.io/milogreen.github.io/)
