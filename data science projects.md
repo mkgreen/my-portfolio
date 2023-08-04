@@ -19,7 +19,7 @@ Below are some of my notable Data Science projects where I extensively delved in
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** The aim of this project is to identify the specific type of Breast Cancer in order to facilitate faster diagnosis. This valuable information will greatly assist medical professionals in effectively and accurately diagnosing the condition, thus enabling them to promptly administer appropriate treatments and ultimately save lives.
 
 **Quantifiable result:** Types of tumors were successfully classified with [**96%** accuracy by using K-means algorithm](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb).
 
