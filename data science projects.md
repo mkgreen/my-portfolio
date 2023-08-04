@@ -10,7 +10,7 @@ email: green.milok@gmail.com
 
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine learning algorithms for different real world datasets. Please feel free to contact me to learn more about my experience working with these projects.
+Below are some of my notable Data Science projects where I extensively delved into a multitude of machine learning algorithms applied to diverse real-world datasets. Should you require further insights regarding my involvement in these projects, please do not hesitate to reach out to me.
 ***
 ### [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification)
 
