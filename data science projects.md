@@ -1,11 +1,14 @@
 # Milo Green
 Data Scientist
 
-[![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://www.linkedin.com/in/kelsey-m-green/)
+[<a href="https://www.linkedin.com/in/kelsey-m-green/">
+  <img src="https://media.licdn.com/dms/image/D5603AQE2DBoyEKtB9g/profile-displayphoto-shrink_800_800/0/1709790481553?e=1727913600&v=beta&t=8kM-F-hPN-rFbQQ3w8fL4aAn0N9_lO5SbqgjplU_zDI" alt="milokgreen" width="200"/>
+</a>](https://www.linkedin.com/in/kelsey-m-green/)
 
 email: green.milok@gmail.com
 
 [View My LinkedIn Profile](https://www.linkedin.com/in/kelsey-m-green/)
+
 
 
 # Data Science Portfolio
