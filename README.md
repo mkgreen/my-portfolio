@@ -1,7 +1,6 @@
 # [my-portfolio](https://mkgreen.github.io/milogreen.github.io/)
 
 <!--[view more of my work here](put url here) -->
-  
      
 
 <a href="https://github.com/mkgreen" target="_blank">
